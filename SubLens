@@ -1,0 +1,36 @@
+Privacy Policy for SubLens
+Last Updated: April 27, 2026
+
+Our Commitment to Your Privacy
+At SubLens, we believe that your financial and subscription data belongs exclusively to you. SubLens is built on a "Local-First" architecture, meaning that your data is stored entirely on your device. We do not collect, transmit, or store any of your personal information, subscription details, or screenshots on our servers.
+
+1. Data Collection
+We do not collect any user data.
+SubLens does not require user registration or account creation. We do not maintain a cloud database or a backend server to receive your information. When you use the app, all processing takes place directly on your iPhone.
+
+2. How We Use Permissions
+SubLens requests specific permissions solely to perform its core functions on your device:
+
+Photo Library Access: This permission is required to import the subscription screenshots you select. SubLens accesses only the specific images you choose to import and utilizes Apple’s native Vision Framework to perform OCR (Optical Character Recognition) locally. No images are uploaded, shared, or stored outside of your device.
+
+Local Notifications: We request permission to send notifications to alert you of upcoming renewal dates or trial expirations. These notifications are scheduled locally via the iOS system and operate entirely offline.
+
+3. Data Processing & Security
+SubLens is engineered with privacy as its foundation:
+
+On-Device Processing: All OCR text recognition and subscription parsing are performed by your device's processor using Apple’s native technologies.
+
+Local Storage: All extracted subscription data is saved within the app’s private, sandboxed environment on your phone. This data is protected by the iOS encrypted file system and is inaccessible to us or any third party.
+
+4. Third-Party Services
+We do not use third-party analytics, trackers, or advertising SDKs. SubLens is a completely independent tool that does not communicate with any external servers. Your usage patterns and subscription information remain strictly private and local to your device.
+
+5. Your Rights
+Because all data is stored locally on your device, you maintain full control:
+
+Data Deletion: If you delete the SubLens app from your device, all associated data (including processed text and reminders) is automatically and permanently removed from your phone. We have no way to recover or access this data.
+
+6. Contact Us
+If you have any questions or concerns regarding this privacy policy or how SubLens handles your information, please feel free to reach out:
+
+Email: mengyehao@gmail.com
